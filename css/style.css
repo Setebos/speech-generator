@@ -1,0 +1,39 @@
+.title-background {
+	width: 100%;
+	background-image: url("../img/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	text-align: center;
+	font-size: 4em;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
+	font-size: 3em;
+	font-weight: bold;
+}
+
+#speech-image {
+	text-align: center;
+	margin-top: 20px;
+}
+
+#speech {
+	text-align: center;
+	margin-top: 50px;
+	font-size: medium;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.refresh-button {
+	text-align: center;
+	margin-top: 30px;
+}
